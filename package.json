@@ -1,0 +1,20 @@
+{
+  "name": "mapbox-gl-native-server-example",
+  "version": "0.0.1",
+  "description": "A simple Mapbox GL Native server example written in Node.js using Express",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "^4.2.1"
+  },
+  "author": "Ari-Pekka Koponen",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.14.1",
+    "mapbox-gl-native": "^3.4.2",
+    "request": "^2.79.0",
+    "sharp": "^0.17.2"
+  }
+}
