@@ -12,4 +12,4 @@ NOTE: The mapbox-gl-native package requires that you're using node version 4.X.
 
 Update the values in "config.js" to match you configuration and run `npm start` to start the server. 
 
-You can then go to http://localhost:3000/0/0/0/ to see the World from the equator (or something else, depending on your vector map source).
+You can then go to http://localhost:3000/0/0/0/ to see the whole World rendered at "the left top corner" of the tile source (or something else, depending on your vector map source).
